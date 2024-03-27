@@ -3,7 +3,7 @@ Pytorch implementation for CW-ControlGAN Text-to-Image Generation. Text-to-image
 <img src="archi.PNG" width="900px" height="404px"/>
 
 ### Overview
-<img src="bird.PNG" width="900px" height="404px"/><img src="fashiongen.PNG" width="900px" height="404px"/>
+<img src="bird.PNG" width="400px" height="404px"/><img src="fashiongen.PNG" width="400px" height="404px"/>
 **[Text to fashion image synthesis Via CW-ControlGAN](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf).**  
 <br> In IEEE-20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP), 2023. <br>
 
