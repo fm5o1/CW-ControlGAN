@@ -1,0 +1,8 @@
+numpy        
+easydict        
+nltk                
+pandas        
+scikit-image        
+opencv-python        
+pyyaml 
+transformers
