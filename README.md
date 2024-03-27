@@ -1,6 +1,11 @@
 # CW-ControlGAN
-Pytorch implementation for CW-ControlGAN Text-to-Image Generation.
+Pytorch implementation for CW-ControlGAN Text-to-Image Generation. Text-to-image generation is called the method that translates human textual descriptions in the form of keywords or sentences into images with the same semantic content as text. The generated image in this field should match the meaning and content of the text and also have an acceptable quality.
 <img src="archi.PNG" width="900px" height="404px"/>
+
+### Overview
+<img src="bird.PNG" width="900px" height="404px"/><img src="fashiongen.PNG" width="900px" height="404px"/>
+**[Text to fashion image synthesis Via CW-ControlGAN](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf).**  
+<br> In IEEE-20th CSI International Symposium on Artificial Intelligence and Signal Processing (AISP), 2023. <br>
 
 ### Data
 1. Download the preprocessed metadata for [bird](https://drive.google.com/file/d/1MIpa-zWbvoY8e8YhvT4rYBNE6S_gkQMJ/view?usp=sharing) and [coco](https://drive.google.com/file/d/1GOEl9lxgSsWUWOXkZZrch08GgPADze7U/view?usp=sharing), and save both into `data/`
