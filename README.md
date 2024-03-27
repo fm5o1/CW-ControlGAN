@@ -1,6 +1,6 @@
 # CW-ControlGAN
 Pytorch implementation for CW-ControlGAN Text-to-Image Generation.
-<img src="archi.jpg" width="900px" height="404px"/>
+<img src="archi.PNG" width="900px" height="404px"/>
 
 ### Data
 1. Download the preprocessed metadata for [bird](https://drive.google.com/file/d/1MIpa-zWbvoY8e8YhvT4rYBNE6S_gkQMJ/view?usp=sharing) and [coco](https://drive.google.com/file/d/1GOEl9lxgSsWUWOXkZZrch08GgPADze7U/view?usp=sharing), and save both into `data/`
