@@ -11,7 +11,7 @@ Pytorch implementation for CW-ControlGAN Text-to-Image Generation. Text-to-image
 1. Download the preprocessed metadata for [bird](https://drive.google.com/file/d/1MIpa-zWbvoY8e8YhvT4rYBNE6S_gkQMJ/view?usp=sharing) and [coco](https://drive.google.com/file/d/1GOEl9lxgSsWUWOXkZZrch08GgPADze7U/view?usp=sharing), and save both into `data/`
 2. Download [bird](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html) dataset and extract the images to `data/birds/`
 3. Download [coco](http://cocodataset.org/#download) dataset and extract the images to `data/coco/`
-4. Download [FashionGEN-Train](https://drive.google.com/file/d/1KqhVoDbPxRlVgcr8E3qgP3j0tN8fmxeu/view?usp=sharing), [FashionGEN-test](https://drive.google.com/file/d/1dqWVKyKQqRF81Nrl7_LheVDNVaGNgTEA/view?usp=sharing) and [example-test](https://drive.google.com/drive/folders/1pjSLY1MRaJ5CszOR_p1QKKaKgo3orDfe?usp=drive_link) dataset and save to `data/fashiongen/`
+4. Download [FashionGEN-Train](https://drive.google.com/file/d/1KqhVoDbPxRlVgcr8E3qgP3j0tN8fmxeu/view?usp=sharing), [FashionGEN-test](https://drive.google.com/file/d/1dqWVKyKQqRF81Nrl7_LheVDNVaGNgTEA/view?usp=sharing) and [example-test](https://drive.google.com/file/d/1kISC9--z_EQgb_jsidL0dat0krbtDf9j/view?usp=drive_link) dataset and save to `data/fashiongen/`
    
 ### Training
 All code was developed and tested on CentOS 7 with Python 3.7 (Anaconda) and PyTorch 1.1.
